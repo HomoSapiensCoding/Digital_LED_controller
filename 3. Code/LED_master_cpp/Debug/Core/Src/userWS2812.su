@@ -1,0 +1,5 @@
+userWS2812.c:9:9:WS2812_start	32	static
+userWS2812.c:40:9:WS2812_prepare_data	24	static
+userWS2812.c:114:7:WS2812_setColor	4	static
+userWS2812.c:121:7:WS2812_fill	16	static
+userWS2812.c:127:7:WS2812_clear	8	static

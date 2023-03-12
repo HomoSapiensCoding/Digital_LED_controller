@@ -1,0 +1,10 @@
+Battery.h:99:23:uint8_t sigmoidal(uint16_t, uint16_t, uint16_t)	24	static
+main.cpp:87:9:uint8_t show_bat_level()	32	static
+main.cpp:105:9:uint8_t show_file_number()	8	static
+main.cpp:119:9:uint8_t show_alarm(COLORS)	16	static
+main.cpp:124:9:uint8_t play()	24	static
+main.cpp:391:6:void Error_Handler()	8	static
+main.cpp:342:6:void SystemClock_Config()	88	static
+main.cpp:153:5:int main()	16	static
+main.cpp:410:6:void assert_failed(uint8_t*, uint32_t)	0	static
+main.cpp:416:1:cpp)	24	static

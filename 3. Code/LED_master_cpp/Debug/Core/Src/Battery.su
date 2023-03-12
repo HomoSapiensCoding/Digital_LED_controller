@@ -1,0 +1,6 @@
+Battery.h:129:23:uint8_t linear(uint16_t, uint16_t, uint16_t)	0	static
+Battery.cpp:21:1:Battery::Battery(uint16_t, uint16_t)	0	static
+Battery.cpp:26:6:void Battery::begin(uint16_t, float, mapFn_t)	0	static
+Battery.cpp:37:9:uint8_t Battery::level(uint16_t)	4	static
+Battery.cpp:47:10:uint16_t Battery::voltage()	16	static
+Battery.cpp:33:9:uint8_t Battery::level()	8	static
